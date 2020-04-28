@@ -323,7 +323,7 @@ footer #right-footer {
 }
 
 footer #social-media-footer a .fa-facebook,
-footer #social-media-footer a .fa-youtube,
+footer #social-media-footer a .fa-twitter,
 footer #social-media-footer a .fa-github {
   color: white;
   transition: 0.4s;
@@ -342,8 +342,8 @@ footer #social-media-footer ul li {
   transition: 0.4s;
 }
 
-footer #social-media-footer ul li:hover a .fa-youtube {
-  color: red;
+footer #social-media-footer ul li:hover a .fa-twitter {
+  color: #00ACEE;
 }
 
 footer #social-media-footer ul li:hover a .fa-facebook {
