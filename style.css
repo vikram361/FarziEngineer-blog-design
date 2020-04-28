@@ -495,19 +495,11 @@ footer #social-media-footer ul li:hover a .fa-linkedin {
     padding-left: 0;
   }
 
-  footer #right-footer {
-    background: #eee;
-    color: black;
-  }
-
-  footer #right-footer a {
-    color: black;
-  }
+ 
 
   footer #social-media-footer a .fa-facebook,
-  footer #social-media-footer a .fa-youtube,
-  footer #social-media-footer a .fa-github {
-    color: black;
+  footer #social-media-footer a .fa-twitter,
+  footer #social-media-footer a .fa-linkedin {
     transition: 0.4s;
   }
 }
